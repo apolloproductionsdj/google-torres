@@ -49,3 +49,7 @@
     background-image: -webkit-linear-gradient(top, #f8f8f8, #f1f1f1);
 }
 
+.search__buttonsHidden {
+    display: none !important;
+}
+
